@@ -19,7 +19,7 @@ using namespace std;
 
 int main() {
 
-	HWND hwnd = FindWindowA(0, "Fly For Sky");
+	HWND hwnd = FindWindowA(0, "Removed :)");
 	if (hwnd) {
 
 		unsigned long pid;
